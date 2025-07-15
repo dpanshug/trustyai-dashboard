@@ -4,7 +4,7 @@ import (
 	"crypto/tls"
 	"encoding/json"
 	"fmt"
-	helper "github.com/alexcreasy/modarch-quickstart/internal/helpers"
+	helper "github.com/trustyai-explainability/trustyai-dashboard/bff/internal/helpers"
 	"github.com/google/uuid"
 	"io"
 	"log/slog"

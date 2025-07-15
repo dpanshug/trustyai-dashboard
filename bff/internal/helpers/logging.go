@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"context"
 	"fmt"
-	"github.com/alexcreasy/modarch-quickstart/internal/constants"
+	"github.com/trustyai-explainability/trustyai-dashboard/bff/internal/constants"
 	"io"
 	"log/slog"
 	"net/http"
